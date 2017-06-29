@@ -57,6 +57,20 @@ body {
 }
 
 
+/*main site*/
+p a i{
+  color: #000;
+}
+
+p a i.fa-bitbucket:hover {
+    color: #205081;
+}
+
+p a i.fa-twitter:hover {
+    color: #55acee;
+}
+
+
 /*
  * Header
  */
